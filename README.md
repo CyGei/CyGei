@@ -1,8 +1,9 @@
-# Hi there! 👋
+# 🔬 Research Focus
 
-I'm a developer focusing on statistical tools and epidemiological modeling in R. My work centers on transmission chain analysis, statistical inference, and developer productivity tools.
+I am a computational epidemiologist at the Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net](https://insightnet.us/) initiative. I obtained my PhD in the Mathematical Modelling of Infectious Diseases at Imperial College London.
+I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees using genetic, epidemiological and contact data.
 
-## 📦 My R Packages
+## 📦 Software Packages
 
 <div align="center">
 
@@ -11,10 +12,12 @@ I'm a developer focusing on statistical tools and epidemiological modeling in R.
 
 *A statistical framework to compare sets of transmission trees*
 
-Bayesian methods for comparing tree collections to test whether they originate from the same or different generative processes.
+Methods for comparing collections of trees (directed acyclic graphs) to test whether they originate from the same or different generative processes.
 
 [![CRAN](https://www.r-pkg.org/badges/version/mixtree)](https://CRAN.R-project.org/package=mixtree)
-[![R-CMD-check](https://github.com/CyGei/mixtree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CyGei/mixtree/actions/workflows/R-CMD-check.yaml)
+[![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/mixtree)](https://CRAN.R-project.org/package=mixtree)
+[![CodeFactor](https://www.codefactor.io/repository/github/cygei/mixtree/badge)](https://www.codefactor.io/repository/github/cygei/mixtree)
+
 
 ---
 
@@ -25,7 +28,7 @@ Bayesian methods for comparing tree collections to test whether they originate f
 
 A novel framework for estimating group transmission assortativity, quantifying how transmission patterns vary across different population groups.
 
-[![R-CMD-check](https://github.com/CyGei/linktree/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CyGei/linktree/actions/workflows/R-CMD-check.yaml)
+[![CodeFactor](https://www.codefactor.io/repository/github/cygei/linktree/badge)](https://www.codefactor.io/repository/github/cygei/linktree)
 
 ---
 
@@ -34,10 +37,11 @@ A novel framework for estimating group transmission assortativity, quantifying h
 
 *Helper functions for the outbreaker2 R package*
 
-Tools to analyze and visualize transmission chain inference results from outbreaker2, making Bayesian outbreak reconstruction more accessible.
+Tools to analyse and visualise Bayesian inference of transmission chains with outbreaker2.
 
 [![CRAN](https://www.r-pkg.org/badges/version/o2ools)](https://CRAN.R-project.org/package=o2ools)
-[![R-CMD-check](https://github.com/CyGei/o2ools/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CyGei/o2ools/actions/workflows/R-CMD-check.yaml)
+[![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/o2ools)](https://CRAN.R-project.org/package=o2ools)
+[![CodeFactor](https://www.codefactor.io/repository/github/cygei/o2ools/badge)](https://www.codefactor.io/repository/github/cygei/o2ools)
 
 ---
 
@@ -46,22 +50,17 @@ Tools to analyze and visualize transmission chain inference results from outbrea
 
 *Tools to time pipe operations in R*
 
-Measure elapsed time in R pipelines with `time_pipe()`. Works seamlessly with native R pipe (`|>`) and tidyverse workflows.
+Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) and tidyverse workflows.
 
 [![CRAN](https://www.r-pkg.org/badges/version/pipetime)](https://CRAN.R-project.org/package=pipetime)
-[![R-CMD-check](https://github.com/CyGei/pipetime/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CyGei/pipetime/actions/workflows/R-CMD-check.yaml)
+[![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/pipetime)](https://CRAN.R-project.org/package=pipetime)
+[![CodeFactor](https://www.codefactor.io/repository/github/cygei/pipetime/badge)](https://www.codefactor.io/repository/github/cygei/pipetime)
+
 
 </div>
 
 ---
 
-### 🔬 Research Focus
-
-My work focuses on developing computational methods for:
-- **Transmission Chain Analysis**: Statistical frameworks for comparing and analyzing disease transmission trees
-- **Epidemiological Modeling**: Tools for outbreak investigation and transmission dynamics
-- **Developer Tools**: Utilities that enhance R programming productivity
-
 ### 📫 Get in Touch
 
-Feel free to explore my repositories and reach out if you're interested in collaboration or have questions about any of my packages!
+Email me at cgeisma1@jhu.edu
