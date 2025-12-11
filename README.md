@@ -24,7 +24,7 @@ Methods for comparing collections of trees (directed acyclic graphs) to test whe
 ### [**linktree**](https://github.com/CyGei/linktree)
 <a href="https://github.com/CyGei/linktree"><img src="https://raw.githubusercontent.com/CyGei/linktree/main/man/figures/logo.png" height="120"/></a>
 
-*Infer group-level assortativity from transmission chains*
+*Infer group-level assortativity from transmission trees*
 
 A novel framework for estimating group transmission assortativity, quantifying how transmission patterns vary across different population groups.
 
