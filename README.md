@@ -12,7 +12,7 @@ I work primarily on respiratory infectious diseases with interest in real-time f
 
 *A statistical framework to compare sets of transmission trees*
 
-Methods for comparing collections of trees (directed acyclic graphs) to test whether they originate from the same or different generative processes.
+Methods for comparing collections of graphs to test whether they originate from the same or different generative processes.
 
 [![CRAN](https://www.r-pkg.org/badges/version/mixtree)](https://CRAN.R-project.org/package=mixtree)
 [![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/mixtree)](https://CRAN.R-project.org/package=mixtree)
@@ -28,6 +28,8 @@ Methods for comparing collections of trees (directed acyclic graphs) to test whe
 
 A novel framework for estimating group transmission assortativity, quantifying how transmission patterns vary across different population groups.
 
+[![CRAN status](https://www.r-pkg.org/badges/version/linktree)](https://CRAN.R-project.org/package=linktree) 
+[![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/linktree)](https://CRAN.R-project.org/package=linktree)
 [![CodeFactor](https://www.codefactor.io/repository/github/cygei/linktree/badge)](https://www.codefactor.io/repository/github/cygei/linktree)
 
 ---
@@ -37,7 +39,7 @@ A novel framework for estimating group transmission assortativity, quantifying h
 
 *Helper functions for the outbreaker2 R package*
 
-Tools to analyse and visualise Bayesian inference of transmission chains with outbreaker2.
+Tools to analyse and visualise Bayesian inference of transmission chains with [`outbreaker2`](https://github.com/reconhub/outbreaker2).
 
 [![CRAN](https://www.r-pkg.org/badges/version/o2ools)](https://CRAN.R-project.org/package=o2ools)
 [![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/o2ools)](https://CRAN.R-project.org/package=o2ools)
@@ -50,7 +52,7 @@ Tools to analyse and visualise Bayesian inference of transmission chains with ou
 
 *Tools to time pipe operations in R*
 
-Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) and tidyverse workflows.
+Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) and `tidyverse` workflows.
 
 [![CRAN](https://www.r-pkg.org/badges/version/pipetime)](https://CRAN.R-project.org/package=pipetime)
 [![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/pipetime)](https://CRAN.R-project.org/package=pipetime)
