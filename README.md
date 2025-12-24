@@ -3,6 +3,8 @@
 I am a computational epidemiologist at the Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net](https://insightnet.us/) initiative. I obtained my PhD in the Mathematical Modelling of Infectious Diseases at Imperial College London.
 I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees using genetic, epidemiological and contact data.
 
+[📄 Google Scholar](https://scholar.google.com/citations?user=h1DRFP4AAAAJ&hl=en)
+
 ## 📦 Software Packages
 
 <div align="center">
