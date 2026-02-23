@@ -1,9 +1,12 @@
 # 🔬 Research Focus
 
-I am a computational epidemiologist at the Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net](https://insightnet.us/) initiative. I obtained my PhD in the Mathematical Modelling of Infectious Diseases at Imperial College London.
-I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees using genetic, epidemiological and contact data.
+I am a computational epidemiologist at Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net](https://insightnet.us/) initiative. I obtained my PhD in the Mathematical Modelling of Infectious Diseases at Imperial College London.
+I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees leveraging genetic, epidemiological and contact data.
+
+[🦠NosoTrack](https://cygei.github.io/nosotrack/)
 
 [📄 Google Scholar](https://scholar.google.com/citations?user=h1DRFP4AAAAJ&hl=en)
+
 
 ## 📦 Software Packages
 
@@ -65,6 +68,19 @@ Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) 
 
 ---
 
+
+## ⚙️ Work in Progress
+
+### Accidasuite
+An R package compiling various statistical, ML & epidemic models for forecasting infectious diseases at the US state level.
+  
+### [Influpaint](https://github.com/ACCIDDA/influpaint)
+A denoising diffusion probabilistic models for infectious disease forecasting.
+
+### [NosoTrack](https://cygei.github.io/nosotrack/)
+A real-time nosocomial outbreak analytics platform.
+
+---
 ### 📫 Get in Touch
 
 Email me at cgeisma1@jhu.edu
