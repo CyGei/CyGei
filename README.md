@@ -88,9 +88,6 @@ Validates input data, optionally applies nowcasting to adjust for reporting dela
 
 
 ## ⚙️ Work in Progress
-
-### Accidasuite
-An R package compiling various statistical, ML & epidemic models for forecasting infectious diseases at the US state level.
   
 ### [Influpaint](https://github.com/ACCIDDA/influpaint)
 A denoising diffusion probabilistic models for infectious disease forecasting.
