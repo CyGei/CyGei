@@ -1,7 +1,7 @@
 # 🔬 Research Focus
 
-I am a computational epidemiologist at Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net](https://insightnet.us/) initiative. I obtained my PhD in the Mathematical Modelling of Infectious Diseases at Imperial College London.
-I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees leveraging genetic, epidemiological and contact data.
+I am a computational epidemiologist at Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net][...]
+I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees leveraging genetic, epidemiologica[...]
 
 [🦠NosoTrack](https://cygei.github.io/nosotrack/)
 
@@ -62,6 +62,24 @@ Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) 
 [![CRAN](https://www.r-pkg.org/badges/version/pipetime)](https://CRAN.R-project.org/package=pipetime)
 [![CRANdownloads](https://cranlogs.r-pkg.org/badges/grand-total/pipetime)](https://CRAN.R-project.org/package=pipetime)
 [![CodeFactor](https://www.codefactor.io/repository/github/cygei/pipetime/badge)](https://www.codefactor.io/repository/github/cygei/pipetime)
+
+---
+
+### [**censcast**](https://github.com/ACCIDDA/censcast)
+<a href="https://github.com/ACCIDDA/censcast"><img src="https://raw.githubusercontent.com/ACCIDDA/censcast/main/logo.png" height="120"/></a>
+
+*Hospital census forecasts from hubverse admission forecasts*
+
+`censcast` convolves hubverse-format admission quantile forecasts with a length-of-stay (LOS) distribution to produce hubverse-format census quantile forecasts.
+
+---
+
+### [**acciddasuite**](https://github.com/ACCIDDA/acciddasuite)
+<a href="https://github.com/ACCIDDA/acciddasuite"><img src="https://raw.githubusercontent.com/ACCIDDA/acciddasuite/main/logo.png" height="120"/></a>
+
+*A simple pipeline for infectious disease forecasts*
+
+Validates input data, optionally applies nowcasting to adjust for reporting delays, and generates forecasts.
 
 
 </div>
