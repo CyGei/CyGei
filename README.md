@@ -1,7 +1,7 @@
 # 🔬 Research Focus
 
-I am a computational epidemiologist at Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net][...]
-I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees leveraging genetic, epidemiologica[...]
+I am a computational epidemiologist at Johns Hopkins University working under the [CDC Center for Forecasting Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)’ [Insight Net](https://insightnet.us/).
+I work primarily on respiratory infectious diseases with interest in real-time forecasting using deep learning models and Bayesian inference of transmission trees leveraging genetic, epidemiological and contact data.
 
 [🦠NosoTrack](https://cygei.github.io/nosotrack/)
 
