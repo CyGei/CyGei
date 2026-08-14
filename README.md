@@ -66,7 +66,7 @@ Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) 
 ---
 
 ### [**incast**](https://github.com/ACCIDDA/incast)
-<a href="https://github.com/ACCIDDA/incast"><img src="https://raw.githubusercontent.com/ACCIDDA/incast/main/logo.png" height="120"/></a>
+<a href="https://github.com/ACCIDDA/incast"><img src="https://raw.githubusercontent.com/ACCIDDA/incast/main/man/figures/logo.png" height="120"/>
 
 *A complete pipeline for infectious disease forecasts*
 
@@ -74,7 +74,6 @@ Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) 
 forecasting developed through **[Insight Net](https://www.cdc.gov/insight-net)**, a **[CDC Center for Forecasting
 and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)** initiative.
 
-</div>
 
 ---
 
@@ -86,6 +85,7 @@ and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.ht
 `censcast` convolves hubverse-format admission quantile forecasts with a length-of-stay (LOS) distribution to produce hubverse-format census quantile forecasts.
 
 ---
+</div>
 
 ## ⚙️ Work in Progress
   
