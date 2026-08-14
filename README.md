@@ -65,6 +65,19 @@ Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) 
 
 ---
 
+### [**incast**](https://github.com/ACCIDDA/incast)
+<a href="https://github.com/ACCIDDA/incast"><img src="https://raw.githubusercontent.com/ACCIDDA/incast/main/logo.png" height="120"/></a>
+
+*A complete pipeline for infectious disease forecasts*
+
+`incast` is an R package for infectious disease nowcasting and
+forecasting developed through **[Insight Net](https://www.cdc.gov/insight-net)**, a **[CDC Center for Forecasting
+and Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)** initiative.
+
+</div>
+
+---
+
 ### [**censcast**](https://github.com/ACCIDDA/censcast)
 <a href="https://github.com/ACCIDDA/censcast"><img src="https://raw.githubusercontent.com/ACCIDDA/censcast/main/logo.png" height="120"/></a>
 
@@ -73,19 +86,6 @@ Measure elapsed time in R pipelines. Works seamlessly with native R pipe (`|>`) 
 `censcast` convolves hubverse-format admission quantile forecasts with a length-of-stay (LOS) distribution to produce hubverse-format census quantile forecasts.
 
 ---
-
-### [**acciddasuite**](https://github.com/ACCIDDA/acciddasuite)
-<a href="https://github.com/ACCIDDA/acciddasuite"><img src="https://raw.githubusercontent.com/ACCIDDA/acciddasuite/main/logo.png" height="120"/></a>
-
-*A simple pipeline for infectious disease forecasts*
-
-Validates input data, optionally applies nowcasting to adjust for reporting delays, and generates forecasts.
-
-
-</div>
-
----
-
 
 ## ⚙️ Work in Progress
   
